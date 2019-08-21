@@ -1,0 +1,10 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic-angular-firebase-facebook",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "ios": {
+    "cordovaLinkerFlags": ["-ObjC"]
+  }
+}
